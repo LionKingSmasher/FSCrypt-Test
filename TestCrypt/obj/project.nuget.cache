@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fa6otm/xzHxKL6Xp3yMcCyX0a0q0D11TOCzya99f0a5eLvTn46RBASWrrCyEelCAp+Dkxgj2y356Fi4FT6/giw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\TestCrypt\\TestCrypt\\TestCrypt.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\fsharp.core\\4.7.1\\fsharp.core.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
